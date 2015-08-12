@@ -1,3 +1,4 @@
+I forked this repository from katzer/cordova-plugin-local-notifications and made changes to the plugin.xml in order for it to be compatible with the PushPlugin plugin. Furthermore, I updated the plugin to use cordova-plugin-device instead of org.apache.cordova.device (deprecated). I made the changes on line 26 and 136 of plugin.xml.
 
 [![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L3HKQCD9UA35A "Donate once-off to this project using Paypal")
 
